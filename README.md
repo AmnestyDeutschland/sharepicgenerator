@@ -1,5 +1,9 @@
 Sharepicgenerator with Docker and Webpack.
 
+# How to adjust?
+- problem creating database file in /code/dist/log/log/logs.db
+  - [ ] find out what should initialize this!
+
 ## Installation
  1. Clone this repo with
   ``git clone ...``
